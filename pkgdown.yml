@@ -1,0 +1,7 @@
+pandoc: 2.19.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  X11: X11.html
+last_built: 2024-01-25T09:50Z
+
